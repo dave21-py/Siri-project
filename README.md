@@ -1,6 +1,6 @@
 # Project Siri: On-Device Intent Classification
 
-### A Comparative Analysis of Baseline vs. Deep Learning Models for Resource-Constrained Environments
+### An Analysis of Baseline vs. Deep Learning Models for Resource-Constrained Environments
 
 ## Project Overview
 
@@ -8,7 +8,7 @@ This project simulates a core component of a voice assistant like Apple's Siri: 
 
 The motivation stems from the degradation of Siri's quality as Apple moved towards on-device processing. This project investigates the trade-offs between model complexity and performance on a small, custom dataset, mimicking the challenges of building efficient on-device AI.
 
-## Goals & Objectives
+## Objectives Done As per Current Timeline
 
 1.  **Build a custom dataset** for a set of common voice assistant intents.
 2.  **Develop a simple baseline model** (TF-IDF + Logistic Regression) to establish a performance benchmark.
@@ -38,14 +38,14 @@ The final performance of the two models was compared head-to-head.
 | **Model Size** | **~15.5 KB** | 290.1 KB | 🏆 **Baseline** |
 | **Inference Speed**| **~0.5 ms** | ~65.0 ms | 🏆 **Baseline** |
 
-The deep learning model's training revealed a classic case of **overfitting**, where its accuracy on the training data increased while its accuracy on unseen validation data stagnated and then declined.
+The deep learning model's training revealed case of **overfitting**, where its accuracy on the training data increased while its accuracy on unseen validation data stagnated and then declined.
 
 <p align="center">
   <img src="graph.png" alt="Overfitting Graph" width="500"/>
 </p>
 <p align="center"><em>(This graph clearly shows the training accuracy (blue) diverging from the validation accuracy (orange), a key sign of overfitting.)</em></p>
 
-## Key Learnings & Conclusion
+## Conclusion
 
 The primary conclusion of this experiment is that **for small, low-resource datasets, a simple, well-tuned baseline model can significantly outperform a more complex deep learning model in every critical metric.**
 
@@ -53,7 +53,7 @@ The LSTM model, despite its theoretical power, was too complex for the limited d
 
 ## Future Work
 
-The clear bottleneck for the deep learning model was the lack of data. The next phase of this project will focus on:
+The next phase of this project will focus on:
 
 1.  **Expanding the Dataset:** Increase the number of intents to 10-15 and the number of utterances to 50+ per intent.
-2.  **Implementing a Transformer Model:** With a larger dataset, train a pre-trained model like **DistilBERT** using transfer learning to see if it can overcome the overfitting problem and finally beat the baseline's performance.
+2.  **Implementing a Transformer Model:** With a larger dataset, train a pre-trained model like **DistilBERT**/**MobileBERTa** using transfer learning to see if it can overcome the overfitting problem and finally beat the baseline's performance.
