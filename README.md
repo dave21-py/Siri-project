@@ -40,7 +40,7 @@ The final performance of the two models was compared head-to-head.
 
 The deep learning model's training revealed a classic case of **overfitting**, where its accuracy on the training data increased while its accuracy on unseen validation data stagnated and then declined.
 
-![Overfitting Graph]([INSERT_YOUR_GRAPH_IMAGE_HERE])
+![Overfitting Graph]([graph.png])
 *(This graph clearly shows the training accuracy (blue) diverging from the validation accuracy (orange), a key sign of overfitting.)*
 
 ## Key Learnings & Conclusion
