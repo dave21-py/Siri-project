@@ -1,0 +1,121 @@
+utterance,intent
+What's the weather like today?,Weather_Get_forecast
+Tell me the forecast for New York.,Weather_Get_forecast
+Will it rain tomorrow?,Weather_Get_forecast
+How hot is it going to be this afternoon?,Weather_Get_forecast
+Do I need to bring a jacket?,Weather_Get_forecast
+Is it sunny outside right now?,Weather_Get_forecast
+Give me the weather report for the weekend.,Weather_Get_forecast
+What's the temperature in Celsius?,Weather_Get_forecast
+Should I pack an umbrella for my trip?,Weather_Get_forecast
+Show me the weather.,Weather_Get_forecast
+How windy will it be later?,Weather_Get_forecast
+Is there any snow in the forecast?,Weather_Get_forecast
+Set a timer for 10 minutes.,Clock_Set_timer
+Timer for 5 minutes please.,Clock_Set_timer
+Can you start a one-hour timer?,Clock_Set_timer
+I need a countdown for 45 seconds.,Clock_Set_timer
+Begin a timer for 20 minutes.,Clock_Set_timer
+Set a 15-minute timer for the pizza.,Clock_Set_timer
+Hey start a 30-minute timer.,Clock_Set_timer
+Put on a timer for two and a half minutes.,Clock_Set_timer
+Countdown from 5 minutes.,Clock_Set_timer
+Set an alarm for 18 minutes from now.,Clock_Set_timer
+I need to time something for 3 minutes.,Clock_Set_timer
+Just a quick 60-second timer.,Clock_Set_timer
+Take me to 1 Infinite Loop Cupertino.,Maps_Set_destination
+Navigate to the nearest coffee shop.,Maps_Set_destination
+Give me directions to the airport.,Maps_Set_destination
+How do I get home from here?,Maps_Set_destination
+Find a route to the San Francisco Public Library.,Maps_Set_destination
+Start a trip to my office.,Maps_Set_destination
+Can you show me the way to the Golden Gate Bridge?,Maps_Set_destination
+I need to go to the grocery store.,Maps_Set_destination
+Map a route to 221B Baker Street.,Maps_Set_destination
+Get me to the Central Park Zoo.,Maps_Set_destination
+What's the best way to get to the museum?,Maps_Set_destination
+I need directions to my mom's house.,Maps_Set_destination
+Schedule a meeting with David for tomorrow at 10 AM.,Calendar_Set_event
+"Add an event to my calendar called ""Project Kickoff"".",Calendar_Set_event
+Create an appointment for a haircut on Friday at 4 PM.,Calendar_Set_event
+"Put ""Dentist Appointment"" on my calendar for June 5th at 2:30 PM.",Calendar_Set_event
+I have a doctor's visit next Tuesday morning.,Calendar_Set_event
+Block out my calendar for a team lunch this Wednesday at noon.,Calendar_Set_event
+"Can you schedule a ""Quarterly Review"" for the end of the month?",Calendar_Set_event
+New event: Coffee with Maria at the downtown cafe.,Calendar_Set_event
+"Add ""Pick up dry cleaning"" to my schedule for 5 PM today.",Calendar_Set_event
+I need to remember a call with the client on Monday.,Calendar_Set_event
+Set up a team sync for this afternoon.,Calendar_Set_event
+Make an event for my anniversary on the 18th.,Calendar_Set_event
+"Send a message to Jane saying ""I'm running a few minutes late"".",Messages_Send_message
+Tell my mom I'll be home for dinner.,Messages_Send_message
+"Text David and ask him ""Are you coming to the party tonight?"".",Messages_Send_message
+"Send ""See you soon!"" to the group chat.",Messages_Send_message
+Can you ask my brother if he's free this weekend?,Messages_Send_message
+I need to send a message to my boss.,Messages_Send_message
+Let Maria know I got the documents.,Messages_Send_message
+"Send a text that says ""On my way!"".",Messages_Send_message
+"Reply to the last message with ""Sounds good thanks!"".",Messages_Send_message
+Send a quick text to John.,Messages_Send_message
+"Let's send ""Happy Birthday!"" to Sarah.",Messages_Send_message
+Message my team that the meeting has been moved to 3 PM.,Messages_Send_message
+Play the new album by Taylor Swift.,Music_Play
+I want to listen to some rock music.,Music_Play
+Put on my "Workout Mix" playlist.,Music_Play
+Play the song "Bohemian Rhapsody".,Music_Play
+Hey play some upbeat pop.,Music_Play
+Shuffle my liked songs.,Music_Play
+Let's hear some Daft Punk.,Music_Play
+Start playing music.,Music_Play
+Can you put on some relaxing jazz?,Music_Play
+I feel like listening to some 80s hits.,Music_Play
+Play my Discover Weekly.,Music_Play
+Turn on some music.,Music_Play
+Call Mom.,Phone_Make_call
+Ring David's mobile.,Phone_Make_call
+Can you dial my office?,Phone_Make_call
+Make a phone call to Jane Doe.,Phone_Make_call
+I need to call the doctor.,Phone_Make_call
+Call 555-1234.,Phone_Make_call
+Dial the emergency services.,Phone_Make_call
+Place a call to my boss.,Phone_Make_call
+Get Sarah on the phone.,Phone_Make_call
+Call home.,Phone_Make_call
+Can you call my brother for me?,Phone_Make_call
+Ring the pizzeria.,Phone_Make_call
+Turn on the living room lights.,Home_Turn_on_off
+Switch off the kitchen lamp.,Home_Turn_on_off
+Hey turn the lights off.,Home_Turn_on_off
+Can you turn on the fan?,Home_Turn_on_off
+Activate the smart plug.,Home_Turn_on_off
+Deactivate the security camera.,Home_Turn_on_off
+Turn off all the lights.,Home_Turn_on_off
+I'm leaving turn everything off.,Home_Turn_on_off
+Switch on the coffee maker.,Home_Turn_on_off
+Did I leave the bedroom light on? Turn it off.,Home_Turn_on_off
+Start the air purifier.,Home_Turn_on_off
+Stop the smart vacuum.,Home_Turn_on_off
+Remind me to take out the trash tomorrow morning.,Reminders_Set_reminder
+Set a reminder to buy milk.,Reminders_Set_reminder
+"Add a reminder: call the bank at 3 PM.",Reminders_Set_reminder
+Don't let me forget to send the report.,Reminders_Set_reminder
+Remind me about the meeting when I get to work.,Reminders_Set_reminder
+I need a reminder to pick up my prescription.,Reminders_Set_reminder
+Create a reminder for my dentist appointment.,Reminders_Set_reminder
+Remind me in an hour to check the oven.,Reminders_Set_reminder
+Can you remind me to water the plants on Sunday?,Reminders_Set_reminder
+Set a daily reminder to take my vitamins.,Reminders_Set_reminder
+"Add 'finish project proposal' to my reminders.",Reminders_Set_reminder
+New reminder: charge my laptop.,Reminders_Set_reminder
+Show me my photos from last summer.,Photos_Search_photos
+Find pictures of my dog.,Photos_Search_photos
+Search for photos taken in Paris.,Photos_Search_photos
+Show me my pictures with Jane Doe.,Photos_Search_photos
+Find my photos from 2023.,Photos_Search_photos
+I'm looking for pictures of sunsets.,Photos_Search_photos
+Show me my recent videos.,Photos_Search_photos
+Can you find my photos from the beach?,Photos_Search_photos
+Pull up pictures of my cat.,Photos_Search_photos
+"Search my photos for 'birthday party'.",Photos_Search_photos
+Show me all my selfies.,Photos_Search_photos
+Find the photos I took in December.,Photos_Search_photos
