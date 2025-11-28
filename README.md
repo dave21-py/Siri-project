@@ -29,11 +29,11 @@ I engineered a lightweight intent classification pipeline designed for mobile de
    git clone https://github.com/YOUR_USERNAME/tiny-siri-edge.git
    cd tiny-siri-edge
 
-2. **Install dependencies
+2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
 
-4. **Run the App
+4. **Run the App**
    ```bash
    streamlit run streamlit_app.py
 
