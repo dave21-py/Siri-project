@@ -1,0 +1,501 @@
+utterance,intent
+What's the weather like?,Weather_Get_forecast
+Weather today,Weather_Get_forecast
+Is it raining right now?,Weather_Get_forecast
+Please tell me the forecast.,Weather_Get_forecast
+What is the temperature outside?,Weather_Get_forecast
+Will it rain tomorrow?,Weather_Get_forecast
+Check the weather for me.,Weather_Get_forecast
+How is the weather in New York?,Weather_Get_forecast
+Do I need an umbrella today?,Weather_Get_forecast
+Is it sunny?,Weather_Get_forecast
+Give me the weekly forecast.,Weather_Get_forecast
+Weather in London.,Weather_Get_forecast
+Is it gonna snow later?,Weather_Get_forecast
+What's the high for today?,Weather_Get_forecast
+Current conditions please.,Weather_Get_forecast
+How cold is it out there?,Weather_Get_forecast
+Can you show me the radar?,Weather_Get_forecast
+Forecast for the weekend.,Weather_Get_forecast
+Is it hot outside?,Weather_Get_forecast
+Will I need a coat tonight?,Weather_Get_forecast
+What's the weather looking like for my commute?,Weather_Get_forecast
+Please check if it's going to storm.,Weather_Get_forecast
+Weather report for Miami.,Weather_Get_forecast
+How windy is it?,Weather_Get_forecast
+Is there any precipitation expected?,Weather_Get_forecast
+What's the humidity level?,Weather_Get_forecast
+Give me the 7-day outlook.,Weather_Get_forecast
+Is it nice out?,Weather_Get_forecast
+Tell me the weather in Paris for next Friday.,Weather_Get_forecast
+Should I wear shorts today?,Weather_Get_forecast
+Is it freezing outside?,Weather_Get_forecast
+What's the temp?,Weather_Get_forecast
+Could you please check the weather forecast?,Weather_Get_forecast
+Are we expecting any rain this afternoon?,Weather_Get_forecast
+Weather update.,Weather_Get_forecast
+How's the weather looking for a picnic on Sunday?,Weather_Get_forecast
+Is the sun out?,Weather_Get_forecast
+Will it be cloudy all day?,Weather_Get_forecast
+What is the forecast for tomorrow morning?,Weather_Get_forecast
+Do I need sunscreen today?,Weather_Get_forecast
+Is there a weather alert for this area?,Weather_Get_forecast
+How warm will it get today?,Weather_Get_forecast
+Weather prediction for tonight.,Weather_Get_forecast
+Is it gonna pour?,Weather_Get_forecast
+I need the weather for San Diego.,Weather_Get_forecast
+Would you mind telling me the outside temperature?,Weather_Get_forecast
+Is it clear skies tonight?,Weather_Get_forecast
+What's the weather forecast for the rest of the week?,Weather_Get_forecast
+Is it muggy out?,Weather_Get_forecast
+Give me a weather briefing.,Weather_Get_forecast
+Set a timer for 10 minutes,Clock_Set_timer
+"Timer 5 minutes,Clock_Set_timer",
+Start a countdown for 20 minutes,Clock_Set_timer
+Set a pasta timer for 11 minutes,Clock_Set_timer
+Focus timer for 25 minutes,Clock_Set_timer
+Count down 1 hour,Clock_Set_timer
+Set a timer for the cookies for 12 minutes,Clock_Set_timer
+3 minute egg timer,Clock_Set_timer
+Alert me in 15 minutes,Clock_Set_timer
+Put 30 minutes on the clock,Clock_Set_timer
+Start a laundry timer for 45 minutes,Clock_Set_timer
+Set a timer for 45 minutes for my study session,Clock_Set_timer
+I need a timer for 10 minutes,Clock_Set_timer
+Set a tea timer for 4 minutes,Clock_Set_timer
+Timer for boiling water,Clock_Set_timer
+20 minute power nap timer,Clock_Set_timer
+Set a timer for 5 minutes please,Clock_Set_timer
+Start a timer for the roast,Clock_Set_timer
+Set a workout timer for 45 seconds,Clock_Set_timer
+Set a timer for 90 seconds,Clock_Set_timer
+Create a timer called rice for 15 minutes,Clock_Set_timer
+Set a timer for one and a half hours,Clock_Set_timer
+Can you set a timer for 12 minutes?,Clock_Set_timer
+Start a plank timer for 60 seconds,Clock_Set_timer
+Timer for 2 minutes,Clock_Set_timer
+Set a pizza timer for 15 minutes,Clock_Set_timer
+Count down from 5 minutes,Clock_Set_timer
+I need a 5 minute break timer,Clock_Set_timer
+Set a timer for the dryer cycle,Clock_Set_timer
+Start a 40 minute timer for work,Clock_Set_timer
+10 minute meditation timer,Clock_Set_timer
+Set a timer for 8 minutes for the macaroni,Clock_Set_timer
+Notify me in 20 minutes,Clock_Set_timer
+Set a timer for the sprinklers for 30 minutes,Clock_Set_timer
+Start a timer for 2 hours,Clock_Set_timer
+Please set a timer for 30 minutes,Clock_Set_timer
+Timer 1 hour,Clock_Set_timer
+Set a bread proofing timer for 60 minutes,Clock_Set_timer
+Set a 10 minute countdown,Clock_Set_timer
+Set a timer for 20 minutes for silent reading,Clock_Set_timer
+Quick timer 5 mins,Clock_Set_timer
+Start a pomodoro timer for 25 minutes,Clock_Set_timer
+Set a timer for the grill check,Clock_Set_timer
+2 minute toothbrush timer,Clock_Set_timer
+Set a timer for 90 minutes,Clock_Set_timer
+Count down 30 minutes for the cake,Clock_Set_timer
+Set a timer for steeping the tea,Clock_Set_timer
+Start a chemistry lab timer for 15 minutes,Clock_Set_timer
+Set a game timer for 30 seconds,Clock_Set_timer
+Timer for 4 minutes,Clock_Set_timer
+Schedule a meeting with the marketing team,Calendar_Set_event
+Add a dentist appointment for 2 PM tomorrow,Calendar_Set_event
+Block out time for lunch,Calendar_Set_event
+Mark my birthday on the calendar,Calendar_Set_event
+Create a new event for Friday at 9 AM,Calendar_Set_event
+Set up a conference call with the client,Calendar_Set_event
+Put the soccer game on my schedule,Calendar_Set_event
+Schedule dinner with Mom for Saturday night,Calendar_Set_event
+Add a recurring meeting every Monday morning,Calendar_Set_event
+Book a room for the project review,Calendar_Set_event
+Mark the calendar for our anniversary,Calendar_Set_event
+I need to schedule a haircut for Tuesday at 5,Calendar_Set_event
+Block out 2 hours for deep work,Calendar_Set_event
+Add an event called Gym for tomorrow at 6 AM,Calendar_Set_event
+Schedule an interview with the candidate,Calendar_Set_event
+"Put ""Vacation"" on the calendar for next week",Calendar_Set_event
+Create a calendar entry for the doctor's visit,Calendar_Set_event
+Schedule a brainstorming session for Thursday,Calendar_Set_event
+Add the concert to my calendar,Calendar_Set_event
+Block off the afternoon for travel,Calendar_Set_event
+Set a meeting for 3 PM today,Calendar_Set_event
+Add flight details to my calendar,Calendar_Set_event
+Schedule a coffee chat with Dave,Calendar_Set_event
+Mark me as busy from 1 to 2,Calendar_Set_event
+Create an appointment for car maintenance,Calendar_Set_event
+Schedule a team sync for 10 AM,Calendar_Set_event
+Add a yoga class to the schedule,Calendar_Set_event
+Put the wedding on July 15th on the calendar,Calendar_Set_event
+Book a slot for the piano lesson,Calendar_Set_event
+Schedule a quick catch-up call,Calendar_Set_event
+Add a deadline for the report on Friday,Calendar_Set_event
+Block out time for grocery shopping,Calendar_Set_event
+Can you add an event to my calendar?,Calendar_Set_event
+Schedule the vet appointment for 4:30 PM,Calendar_Set_event
+Mark next Friday as a holiday,Calendar_Set_event
+Set up a lunch meeting with the boss,Calendar_Set_event
+Add a movie night for Friday at 8,Calendar_Set_event
+Schedule a playdate for the kids,Calendar_Set_event
+Create an event for the budget review,Calendar_Set_event
+I'm busy tomorrow morning add that to the calendar,Calendar_Set_event
+Schedule a quarterly planning meeting,Calendar_Set_event
+"Add ""Study time"" to my daily schedule",Calendar_Set_event
+Put the open house on the calendar for Sunday,Calendar_Set_event
+Schedule a reminder on the calendar to pay rent,Calendar_Set_event
+Block out the whole day for the conference,Calendar_Set_event
+Add a breakfast meeting for 8 AM,Calendar_Set_event
+Schedule a 1-on-1 with Sarah,Calendar_Set_event
+Create a calendar invite for the party,Calendar_Set_event
+Mark the date for the graduation ceremony,Calendar_Set_event
+Schedule a workshop for next month,Calendar_Set_event
+Turn on the living room lights,Home_Turn_on_off
+Switch off the coffee maker,Home_Turn_on_off
+Dim the bedroom lights to 50%,Home_Turn_on_off
+Kill the lights,Home_Turn_on_off
+Lights out,Home_Turn_on_off
+Turn on the kitchen light,Home_Turn_on_off
+Turn off the TV,Home_Turn_on_off
+Switch on the ceiling fan,Home_Turn_on_off
+Can you turn off the bedroom lamp?,Home_Turn_on_off
+Shut off the heater,Home_Turn_on_off
+Turn the AC on,Home_Turn_on_off
+Hit the lights in the garage,Home_Turn_on_off
+Power on the hallway light,Home_Turn_on_off
+Turn off all the lights,Home_Turn_on_off
+Switch the bathroom fan off,Home_Turn_on_off
+Turn on the desk lamp,Home_Turn_on_off
+Cut the lights,Home_Turn_on_off
+Enable the porch light,Home_Turn_on_off
+Disable the living room outlet,Home_Turn_on_off
+Turn the lights on,Home_Turn_on_off
+Turn the lights off,Home_Turn_on_off
+Switch off the sound system,Home_Turn_on_off
+Turn on the humidifier,Home_Turn_on_off
+Shut down the entertainment system,Home_Turn_on_off
+Lights on,Home_Turn_on_off
+Turn off the night light,Home_Turn_on_off
+Set the dining room lights to off,Home_Turn_on_off
+Switch on the smart plug,Home_Turn_on_off
+Turn on the reading lamp,Home_Turn_on_off
+Turn the kitchen fan off,Home_Turn_on_off
+Toggle the office light,Home_Turn_on_off
+Kill the power to the TV,Home_Turn_on_off
+Turn on the Christmas lights,Home_Turn_on_off
+Switch the floor lamp on,Home_Turn_on_off
+Turn off the basement lights,Home_Turn_on_off
+Dim the lights,Home_Turn_on_off
+Turn on the bedside lamp,Home_Turn_on_off
+Switch off the exhaust fan,Home_Turn_on_off
+Turn the outside lights on,Home_Turn_on_off
+Lights off in the den,Home_Turn_on_off
+Turn on the electric blanket,Home_Turn_on_off
+Switch off the main switch,Home_Turn_on_off
+Turn the projector on,Home_Turn_on_off
+Shut off the lights downstairs,Home_Turn_on_off
+Turn on the vanity mirror light,Home_Turn_on_off
+Switch the kettle on,Home_Turn_on_off
+Turn off the reading light,Home_Turn_on_off
+Activate the living room lights,Home_Turn_on_off
+Deactivate the bedroom fan,Home_Turn_on_off
+Turn on the lamp in the corner,Home_Turn_on_off
+Take me home,Maps_Set_destination
+Navigate to work,Maps_Set_destination
+Get directions to the nearest Starbucks,Maps_Set_destination
+Route to 123 Main Street,Maps_Set_destination
+How do I get to the airport from here?,Maps_Set_destination
+Show me the way to the library,Maps_Set_destination
+Go to 500 West 4th Street,Maps_Set_destination
+Directions to the closest gas station,Maps_Set_destination
+I need to go to the mall,Maps_Set_destination
+Navigate to Central Park,Maps_Set_destination
+Take me to the office,Maps_Set_destination
+Set destination to 742 Evergreen Terrace,Maps_Set_destination
+Find a route to Whole Foods,Maps_Set_destination
+Directions to Mom's house,Maps_Set_destination
+Let's go to the gym,Maps_Set_destination
+Map a route to San Francisco,Maps_Set_destination
+Take me to the stadium,Maps_Set_destination
+Get me to the train station,Maps_Set_destination
+Navigate to the nearest hospital,Maps_Set_destination
+Drive to 1600 Pennsylvania Avenue,Maps_Set_destination
+Show directions to the post office,Maps_Set_destination
+Route to the Golden Gate Bridge,Maps_Set_destination
+Take me to the nearest Italian restaurant,Maps_Set_destination
+I want to go to the zoo,Maps_Set_destination
+Navigate to school,Maps_Set_destination
+Set course for home,Maps_Set_destination
+Directions to the cinema,Maps_Set_destination
+Go to the bank,Maps_Set_destination
+Take me to the airport please,Maps_Set_destination
+Route to the nearest ATM,Maps_Set_destination
+How do I get to Times Square?,Maps_Set_destination
+Navigate to the hardware store,Maps_Set_destination
+Start navigation to 88 Broad St,Maps_Set_destination
+Directions to the pharmacy,Maps_Set_destination
+Take me to the nearest hotel,Maps_Set_destination
+Go to the dentist,Maps_Set_destination
+I need directions to the park,Maps_Set_destination
+Navigate to the museum,Maps_Set_destination
+Route to the coffee shop,Maps_Set_destination
+Take me to the ferry terminal,Maps_Set_destination
+Show me how to get to the highway,Maps_Set_destination
+Drive to the supermarket,Maps_Set_destination
+Set navigation for the downtown library,Maps_Set_destination
+Get directions to Target,Maps_Set_destination
+Go to the police station,Maps_Set_destination
+Navigate to the vet,Maps_Set_destination
+Take me to the mechanic,Maps_Set_destination
+Route to the football field,Maps_Set_destination
+How do I get to the concert hall?,Maps_Set_destination
+Start route to the beach,Maps_Set_destination
+Text Mom I'm on my way,Messages_Send_message
+Draft an email to my boss saying I'm sick,Messages_Send_message
+Reply to John saying yes,Messages_Send_message
+Shoot a message to Sarah,Messages_Send_message
+Tell Mike to pick up pizza,Messages_Send_message
+Send a text to Alice,Messages_Send_message
+Email the report to the marketing team,Messages_Send_message
+Message Dad saying I'll be late,Messages_Send_message
+Reply to the last text,Messages_Send_message
+Let Susan know I'm here,Messages_Send_message
+Send a WhatsApp to Maria,Messages_Send_message
+Text the group chat,Messages_Send_message
+Write an email to the client,Messages_Send_message
+Respond to the message from Dave,Messages_Send_message
+Send a text asking are you awake,Messages_Send_message
+Email the itinerary to myself,Messages_Send_message
+Tell my husband to buy milk,Messages_Send_message
+Shoot a text to the team,Messages_Send_message
+Reply with I'm on it,Messages_Send_message
+Send a message to 555-0199,Messages_Send_message
+Text Sarah happy birthday,Messages_Send_message
+Draft a response to the recruiter,Messages_Send_message
+Message the driver asking where are you,Messages_Send_message
+Send an email about the invoice,Messages_Send_message
+Reply to Mom,Messages_Send_message
+Text the kids dinner is ready,Messages_Send_message
+Hit up Chris for a ride,Messages_Send_message
+Send a quick note to the teacher,Messages_Send_message
+Reply to all on that email,Messages_Send_message
+Message Sam on Telegram,Messages_Send_message
+Text my sister I got the job,Messages_Send_message
+Send an SMS to the bank,Messages_Send_message
+Email support regarding my account,Messages_Send_message
+Let the boss know I'm stuck in traffic,Messages_Send_message
+Reply saying no thanks,Messages_Send_message
+Send a voice note to Julia,Messages_Send_message
+Text the landlord about the heating,Messages_Send_message
+Compose an email to the board,Messages_Send_message
+Message Ben good luck,Messages_Send_message
+Send a text to confirm the appointment,Messages_Send_message
+Reply to that email with the attachment,Messages_Send_message
+Tell Greg I'm running 10 minutes late,Messages_Send_message
+Send a message via Messenger,Messages_Send_message
+Text my assistant to cancel the meeting,Messages_Send_message
+Email the photos to Grandma,Messages_Send_message
+Reply to the group message,Messages_Send_message
+Send a text saying I made it home safe,Messages_Send_message
+Message the seller asking is this still available,Messages_Send_message
+Shoot an email to the department head,Messages_Send_message
+Reply with a smiley face,Messages_Send_message
+Play Bohemian Rhapsody,Music_Play
+Shuffle songs by Taylor Swift,Music_Play
+Put on some jazz,Music_Play
+Play some workout music,Music_Play
+Start my Chill playlist,Music_Play
+I want to hear Blinding Lights,Music_Play
+Play The Beatles,Music_Play
+Play classical music for studying,Music_Play
+Queue up Imagine by John Lennon,Music_Play
+Play my Liked Songs,Music_Play
+Put on some Drake,Music_Play
+Play 90s hip hop,Music_Play
+Start the Party Mix,Music_Play
+Play Despacito,Music_Play
+Can you play Smells Like Teen Spirit?,Music_Play
+I need some upbeat pop music,Music_Play
+Play the latest album by Adele,Music_Play
+Resume the Road Trip playlist,Music_Play
+Play Shape of You,Music_Play
+Put on some relaxing rain sounds,Music_Play
+Shuffle Queen,Music_Play
+Play country music,Music_Play
+Play the Top 50 Global,Music_Play
+Put on Rolling in the Deep,Music_Play
+I want to listen to Eminem,Music_Play
+Start a rock playlist,Music_Play
+Play my Gym playlist,Music_Play
+Play Mr. Brightside please,Music_Play
+Play songs by Ed Sheeran,Music_Play
+Play something for a dinner party,Music_Play
+Start playing Billie Jean,Music_Play
+Mix of Coldplay songs,Music_Play
+I want to hear heavy metal,Music_Play
+Play the Discover Weekly playlist,Music_Play
+Play Beyonce's hits,Music_Play
+Play lo-fi beats,Music_Play
+Put on my Morning Coffee playlist,Music_Play
+Let's hear some Frank Sinatra,Music_Play
+Put on some blues,Music_Play
+Start the Sleep playlist,Music_Play
+Play electronic dance music,Music_Play
+I'm in the mood for reggae,Music_Play
+Play some sad songs,Music_Play
+Play some music,Music_Play
+Hit play,Music_Play
+Drop the beat,Music_Play
+Spin some tunes,Music_Play
+Play something I like,Music_Play
+Play Hotel California,Music_Play
+Play the Rolling Stones,Music_Play
+Call Mom mobile,Phone_Make_call
+Dial John Smith,Phone_Make_call
+Call 911,Phone_Make_call
+Call the fire department,Phone_Make_call
+FaceTime Sarah,Phone_Make_call
+Call Dad on speakerphone,Phone_Make_call
+Call the nearest pizza place,Phone_Make_call
+Ring the dentist,Phone_Make_call
+Call my brother,Phone_Make_call
+Dial 555-0199,Phone_Make_call
+Call the police immediately,Phone_Make_call
+Make a call to Alice,Phone_Make_call
+Video call with Mike,Phone_Make_call
+Call Susan at work,Phone_Make_call
+Phone the pharmacy,Phone_Make_call
+Connect me to customer service,Phone_Make_call
+Call the closest gas station,Phone_Make_call
+Dial emergency services,Phone_Make_call
+Call home,Phone_Make_call
+Call the office,Phone_Make_call
+Ring the plumber,Phone_Make_call
+Call Doctor Green,Phone_Make_call
+FaceTime Mom,Phone_Make_call
+Call the vet,Phone_Make_call
+Dial the number for the library,Phone_Make_call
+Call Bob on WhatsApp,Phone_Make_call
+Put a call through to the boss,Phone_Make_call
+Call the local Chinese restaurant,Phone_Make_call
+Redial the last number,Phone_Make_call
+Call my wife,Phone_Make_call
+Call the school,Phone_Make_call
+Dial the support line,Phone_Make_call
+Call 1-800-555-0100,Phone_Make_call
+Call the electrician,Phone_Make_call
+Make a speaker call to grandma,Phone_Make_call
+Call the front desk,Phone_Make_call
+Phone the insurance company,Phone_Make_call
+Call the bank,Phone_Make_call
+Dial the landlord,Phone_Make_call
+Call emergency contact,Phone_Make_call
+Call the tow truck,Phone_Make_call
+Ring the hair salon,Phone_Make_call
+Call the nearest hospital,Phone_Make_call
+Call Jane Doe,Phone_Make_call
+Dial the conference line,Phone_Make_call
+Call my husband,Phone_Make_call
+Video chat with Sam,Phone_Make_call
+Call the gym,Phone_Make_call
+Call the taxi service,Phone_Make_call
+Give David a ring,Phone_Make_call
+Show me photos from last summer,Photos_Search_photos
+Pictures from December 2021,Photos_Search_photos
+Find photos of my dog,Photos_Search_photos
+Show me pictures of Dad,Photos_Search_photos
+Photos taken in Paris,Photos_Search_photos
+Show me my beach pictures,Photos_Search_photos
+Pull up my selfies,Photos_Search_photos
+Show me the last photo I took,Photos_Search_photos
+Find pictures from yesterday,Photos_Search_photos
+Show photos of the cat,Photos_Search_photos
+Display photos from my birthday,Photos_Search_photos
+Search for photos of mountains,Photos_Search_photos
+Show me pictures from the weekend,Photos_Search_photos
+Find photos of Sarah,Photos_Search_photos
+Show me photos taken in New York,Photos_Search_photos
+Pictures of food,Photos_Search_photos
+Show me my screenshots,Photos_Search_photos
+Find photos from 2019,Photos_Search_photos
+Show me pictures of the baby,Photos_Search_photos
+Photos from the road trip,Photos_Search_photos
+Show me photos of sunsets,Photos_Search_photos
+Find pictures taken at home,Photos_Search_photos
+Show me photos of Mom,Photos_Search_photos
+Pull up pictures from Hawaii,Photos_Search_photos
+Show me the latest photos,Photos_Search_photos
+Find photos of receipts,Photos_Search_photos
+Show me pictures of flowers,Photos_Search_photos
+Photos from last Christmas,Photos_Search_photos
+Show me photos of my friends,Photos_Search_photos
+Find pictures of snow,Photos_Search_photos
+Show me photos taken at the park,Photos_Search_photos
+Show me my favorites,Photos_Search_photos
+Find photos of the wedding,Photos_Search_photos
+Show me pictures from Tokyo,Photos_Search_photos
+Photos of the concert,Photos_Search_photos
+Show me pictures of cars,Photos_Search_photos
+Find photos from last week,Photos_Search_photos
+Show me photos of the garden,Photos_Search_photos
+Pictures from the hiking trip,Photos_Search_photos
+Show me photos of grandma,Photos_Search_photos
+Find photos taken in London,Photos_Search_photos
+Show me my vacation photos,Photos_Search_photos
+Pull up the album from the zoo,Photos_Search_photos
+Show me pictures of the ocean,Photos_Search_photos
+Find photos from this morning,Photos_Search_photos
+Show me pictures of trees,Photos_Search_photos
+Photos of documents,Photos_Search_photos
+Show me pictures of people smiling,Photos_Search_photos
+Find photos from July 4th,Photos_Search_photos
+Show me all my photos,Photos_Search_photos
+Remind me to take out the trash,Rem_Set_reminder
+Put milk on my shopping list,Rem_Set_reminder
+Remind me to buy eggs,Rem_Set_reminder
+Remind me to call John in 10 minutes,Rem_Set_reminder
+Remind me to check the mail when I get home,Rem_Set_reminder
+Set a reminder to pay the electric bill,Rem_Set_reminder
+Remind me to water the plants tomorrow morning,Rem_Set_reminder
+Alert me in 30 minutes to check the oven,Rem_Set_reminder
+Remind me to pick up the dry cleaning,Rem_Set_reminder
+Remind me to feed the dog at 5 PM,Rem_Set_reminder
+Add a reminder to call the dentist,Rem_Set_reminder
+Remind me to buy a birthday gift for Mom,Rem_Set_reminder
+Remind me when I leave work to get gas,Rem_Set_reminder
+Set a reminder for 9 AM to take my vitamins,Rem_Set_reminder
+Remind me to defrost the chicken,Rem_Set_reminder
+Don't let me forget to lock the door,Rem_Set_reminder
+Remind me to submit the timesheet on Friday,Rem_Set_reminder
+Remind me to pick up the kids from school,Rem_Set_reminder
+Remind me in an hour to stretch,Rem_Set_reminder
+Remind me to grab my umbrella,Rem_Set_reminder
+Create a reminder to book flights,Rem_Set_reminder
+Remind me to email the boss,Rem_Set_reminder
+Remind me to charge my phone,Rem_Set_reminder
+Set a reminder to renew my subscription,Rem_Set_reminder
+Remind me to take the car for service,Rem_Set_reminder
+Remind me to buy bread when I'm at the store,Rem_Set_reminder
+Remind me to turn off the sprinklers in 20 minutes,Rem_Set_reminder
+Remind me to clean the litter box,Rem_Set_reminder
+Remind me to print the tickets,Rem_Set_reminder
+Remind me to RSVP to the party,Rem_Set_reminder
+Remind me to get cash from the ATM,Rem_Set_reminder
+Set a reminder to study for the exam,Rem_Set_reminder
+Remind me to update my software,Rem_Set_reminder
+Remind me to call my sister later,Rem_Set_reminder
+Remind me to change the air filter,Rem_Set_reminder
+Remind me to pack a lunch,Rem_Set_reminder
+Remind me to take the roast out of the freezer,Rem_Set_reminder
+Remind me to call the plumber,Rem_Set_reminder
+Remind me to check the tire pressure,Rem_Set_reminder
+Remind me to write a thank you note,Rem_Set_reminder
+Remind me to do the laundry,Rem_Set_reminder
+Remind me to take out the recycling,Rem_Set_reminder
+Set a reminder to file my taxes,Rem_Set_reminder
+Remind me to buy batteries,Rem_Set_reminder
+Remind me to schedule a haircut,Rem_Set_reminder
+Remind me to check the stock market,Rem_Set_reminder
+Remind me to put the bins out,Rem_Set_reminder
+Remind me to text Mike back,Rem_Set_reminder
+Remind me to start the dishwasher,Rem_Set_reminder
+Remind me to go for a run,Rem_Set_reminder
