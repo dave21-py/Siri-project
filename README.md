@@ -2,8 +2,6 @@
 
 #### A Quantized DistilBERT model for On-Device Voice Assistants (97% Accuracy)
 
-[****🚀 Live Demo**](https://huggingface.co/spaces/dave21-py/tiny_siri_demo) | [**📄 Project Report**](#)
-
 #### The Problem
 Modern Voice Assistants (like Siri/Alexa) rely on massive cloud models (BERT/GPT). This causes privacy concerns and high latency. Running these models on-device (Edge AI) is difficult because they consume too much battery and memory.
 
@@ -30,3 +28,19 @@ I engineered a lightweight intent classification pipeline designed for mobile de
    ```bash
    git clone https://github.com/YOUR_USERNAME/tiny-siri-edge.git
    cd tiny-siri-edge
+
+2. **Install dependencies
+   ```bash
+   pip install -r requirements.txt
+
+4. **Run the App
+   ```bash
+   streamlit run streamlit_app.py
+
+#### Methodology
+
+* Data Augmentation: Solved the "Cold Start" problem by generating 500+ synthetic training examples using LLMs to simulate varied speech patterns.
+* Transfer Learning: Fine-tuned distilbert-base-uncased to classify 10 distinct user intents (e.g., Set_Timer, Get_Weather).
+* Quantization: Converted model weights from 32-bit floating point to 8-bit integers using torch.quantization.
+
+  
